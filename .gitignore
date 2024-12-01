@@ -4,6 +4,7 @@ directory
 # Get latest from
 https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+3
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -39,6 +40,7 @@ ExportedObj/
 *.svd
 *.pdb
 *.mdb
+
 *.opendb
 *.VC.db
 # Unity3D generated meta files
@@ -60,4 +62,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-
